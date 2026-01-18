@@ -74,3 +74,15 @@ Future versions could incorporate:
 
 The current structure intentionally mirrors early-stage adaptive systems before ML integration.
 
+
+Video - 
+
+
+https://github.com/user-attachments/assets/5665ca1f-30c9-4fdc-92d3-0d3bf2208718
+
+
+
+https://github.com/user-attachments/assets/4688652e-307a-468c-8916-2ad65eb6da47
+
+
+
